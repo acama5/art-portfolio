@@ -1,15 +1,38 @@
+/*Colors*/
+:root {
+--primary: #41242Cff;
+--secondary: #34161Fff;
+--soft-glow: rgba(238, 199, 100, 0.303);
+}
+
+* {
+  box-sizing: border-box;
+}
+
 html {
   scroll-behavior: smooth;
 }
 
-.section {
-  min-height: 100vh;
-  padding: 80px 20px;
-  text-align: center;
+body {
+  margin: 0;
+  font-family: 'Playfair Display', serif;
+  background: var(--primary);
+  color: white;
+  letter-spacing:0.03em;
 }
 
+.section {
+  padding: 6rem 0; 
+}
+
+.container {
+  width: 90%;
+  max-width: 1100px;
+  margin: 0 auto;
+}
+
+/*NAVIGATION*/
 nav {
-  position: sticky;
   top: 0;
   background: white;
   padding: 20px;
@@ -18,3 +41,13 @@ nav {
   gap: 30px;
   box-shadow: 0 2px 5px rgba(0,0,0,0.05);
 }
+
+
+
+/*HOME*/
+
+/*PHOTOGRAPHS*/
+
+/*DRAWINGS*/
+
+/*FOOTER*/
