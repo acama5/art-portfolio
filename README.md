@@ -16,7 +16,7 @@ As the **Lead Developer and Content Creator**, I am handaling every stage of thi
 - **Git/GitHub:** For version control and tracking my progress as I learned new coding techniques.
 
 
-### Steps
+## Steps
 1. **Planning and Image Prep** | I began by selecting a few pieces of artwork I felt proud of and photographs I took over the time. Only a few were selected in order to avoid an overwhelming amount in the portfolio. I used Adobe Photoshop to edit and optimize each asset. I then moved to Figma to finalize the layouts, color palette, and overall aesthetic of the page. [View the Figma Design Mockup Here](https://www.figma.com/design/pOatk8BuwGV3JzZJzOqvSV/Art-Portfolio-Planning?node-id=0-1&t=1QENJkhol2IWBFT0-1)
    
 2. **Building the Coding Fundation** | I then proceeded with the coding foundation using HTML and React. I wrote the skeleton of the website that consisted of a simple structure of a one-page website. This allows for easy navigation and a compact feel.
